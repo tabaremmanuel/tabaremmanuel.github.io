@@ -106,7 +106,8 @@ a{
   .portfolio{
     z-index: 1;
     animation: fadein 1s;
-    background-color:#fff;
+    // background-color:#fff;
+    background-color:#eaeaea;
     position: relative;
     height:100%;
 
@@ -162,7 +163,8 @@ a{
 .toggle-menu {
   display: inline-block;
   cursor: pointer;
-  position: absolute;
+  // position: absolute;
+  position: fixed;
   top:0;
   right:0;
   z-index: 3;
