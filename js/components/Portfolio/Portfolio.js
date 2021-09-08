@@ -57,21 +57,21 @@ class Portfolio extends React.Component {
 
             <Portfolios
               info={{
-                name: "ViewTechGroup",
-                desc: "",
+                name: "Tulumi",
+                desc: "Digital Marketing",
                 bg:
-                  "https://static.wixstatic.com/media/12c37e_1228d72f59034b60a48139453b45e47b~mv2.png/v1/fill/w_298,h_57,al_c,q_85,usm_0.66_1.00_0.01/ViewTech_Logo_HorizontalWhite.webp",
-                link: "https://viewtechgroup.com"
+                  "https://tulumi.com/wp-content/themes/tulumi/images/logo.png",
+                link: "https://tulumi.com/"
               }}
             />
 
             <Portfolios
               info={{
-                name: "Texas Virtual Schools",
-                desc: "Powering Bright Minds",
+                name: "Strength Metrix",
+                desc: "",
                 bg:
-                  "https://txvs.org/wp-content/themes/twentynineteen-child/img/txvs-vector.svg",
-                link: "https://txvs.org/"
+                  "https://www.strengthmetrix.com/wp-content/uploads/2018/02/sm-logov2-wht.svg",
+                link: "https://www.strengthmetrix.com/"
               }}
             />
 
@@ -116,11 +116,11 @@ class Portfolio extends React.Component {
 
             <Portfolios
               info={{
-                name: "QuestPro",
+                name: "Adair Eyewear",
                 desc: "",
                 bg:
-                  "https://www.questpro.com/wp-content/uploads/2016/05/cropped-qpro-logo.png",
-                link: "https://www.questpro.com/"
+                  "https://adaireyewear.com/wp-content/uploads/2019/07/adair-logo.png",
+                link: "https://adaireyewear.com/"
               }}
             />
 
