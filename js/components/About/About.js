@@ -17,7 +17,7 @@ class About extends React.Component {
                     <p>
                       I am a freelance web developer from the Philippines. Most of
                       my work are running on WordPress. I've been in the industry for
-                      more than 5 years. On my free time, I ride my bike around the city and go to beaches. Feel free to check on my work&nbsp;
+                      more than 5 years. On my free time, I go motocamping. Feel free to check on my work&nbsp;
                       <a
                         href="javascript:void(0)"
                         onClick={this.props.showPortfolios}
