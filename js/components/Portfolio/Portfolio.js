@@ -37,21 +37,21 @@ class Portfolio extends React.Component {
 
             <Portfolios
               info={{
-                name: "Preston Dugas Law Firm",
+                name: "The Enterprise Team",
                 desc: "",
                 bg:
-                  "https://www.pjdlawfirm.com/wp-content/themes/pres/images/preston-dugas-logo.svg",
-                link: "https://www.pjdlawfirm.com/"
+                  "https://theenterpriseteam.com/wp-content/uploads/2022/11/the-enterprise-team-logo-300x116.png",
+                link: "https://theenterpriseteam.com/"
               }}
             />
 
             <Portfolios
               info={{
-                name: "Neighbors House Grocery",
+                name: "Winters-Oliver",
                 desc: "",
                 bg:
-                  "https://neighborshousegrocery.com/wp-content/uploads/2019/03/favicon.png",
-                link: "https://neighborshousegrocery.com/"
+                  "https://wintersoliver.com/wp-content/uploads/2020/11/woia-logo.png",
+                link: "https://wintersoliver.com/"
               }}
             />
 
@@ -60,7 +60,7 @@ class Portfolio extends React.Component {
                 name: "Tulumi",
                 desc: "Digital Marketing",
                 bg:
-                  "https://tulumi.com/wp-content/themes/tulumi/images/logo.png",
+                  "https://tulumi.com/storage/2021/10/Tulumi-Logo_FF0013-02-1-v2.png",
                 link: "https://tulumi.com/"
               }}
             />
@@ -86,11 +86,11 @@ class Portfolio extends React.Component {
 
             <Portfolios
               info={{
-                name: "Sanus Vivere",
-                desc: "Health and Wellness",
+                name: "Dixon Associates",
+                desc: "",
                 bg:
-                  "https://sanusviverehealthandwellness.com/wp-content/uploads/2019/02/sanus-vivere-logo.png",
-                link: "https://sanusviverehealthandwellness.com/"
+                  "https://dixon-associates.com/wp-content/uploads/2020/08/dixon-assoc-logo.png",
+                link: "https://dixon-associates.com/"
               }}
             />
 
