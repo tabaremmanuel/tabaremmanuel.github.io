@@ -15,9 +15,7 @@ class About extends React.Component {
                 <div className="col-12 col-lg-8 pt-4 text-center text-lg-left">
                   <div className="d-flex h-100 align-items-center">
                     <p>
-                      I am a freelance web developer from the Philippines. Most of
-                      my work are running on WordPress. I've been in the industry for
-                      more than 5 years. On my free time, I go motocamping. Feel free to check on my work&nbsp;
+                      I'm a seasoned web developer based in the Philippines with 9 years of experience. I specialize in WordPress development and have successfully completed various projects from clients. When I'm not working, I enjoy traveling and going on motocamping trips. You can view my portfolio&nbsp;
                       <a
                         href="javascript:void(0)"
                         onClick={this.props.showPortfolios}

@@ -17,6 +17,16 @@ class Portfolio extends React.Component {
 
             <Portfolios
               info={{
+                name: "Clearfork Foods",
+                desc: "",
+                bg:
+                  "../../images/clear.svg",
+                link: "https://clearforkfoods.com/",
+              }}
+            />
+
+            <Portfolios
+              info={{
                 name: "Texas Bingo",
                 desc: "",
                 bg:
@@ -135,7 +145,7 @@ class Portfolio extends React.Component {
             /> */}           
             
 
-            <Portfolios
+            {/* <Portfolios
               info={{
                 name: "Scott's K9",
                 desc: "",
@@ -143,7 +153,7 @@ class Portfolio extends React.Component {
                   "https://scottsk9.com/wp-content/uploads/2020/07/scottsk9-logo-footer.png.webp",
                 link: "https://scottsk9.com/"
               }}
-            />
+            /> */}          
 
 
           </div>
