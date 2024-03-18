@@ -104,13 +104,23 @@ class Portfolio extends React.Component {
               }}
             />
 
-            <Portfolios
+            {/* <Portfolios
               info={{
                 name: "Clifton Crofford Studios",
                 desc: "",
                 bg:
                   "https://cliftoncroffordstudios.com/wp-content/themes/cxc/assets/images/cxc-logo.png",
                 link: "https://cliftoncroffordstudios.com/"
+              }}
+            /> */}
+
+            <Portfolios
+              info={{
+                name: "RAM Benefits",
+                desc: "",
+                bg:
+                  "https://rambenefits.com/wp-content/uploads/2023/03/ram-logo-Screen-quality.png",
+                link: "https://rambenefits.com/"
               }}
             />
 
@@ -124,13 +134,23 @@ class Portfolio extends React.Component {
               }}
             />*/}
 
-            <Portfolios
+            {/* <Portfolios
               info={{
                 name: "Adair Eyewear",
                 desc: "",
                 bg:
                   "https://adaireyewear.com/wp-content/uploads/2019/07/adair-logo.png",
                 link: "https://adaireyewear.com/"
+              }}
+            /> */}
+
+            <Portfolios
+              info={{
+                name: "SparkEffect",
+                desc: "",
+                bg:
+                  "https://sparkeffect.com/wp-content/uploads/2024/01/sparkeffect-logo.svg",
+                link: "https://sparkeffect.com/"
               }}
             />
 

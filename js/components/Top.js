@@ -5,11 +5,13 @@ class Top extends React.Component{
         <div className="container">
           <div className="row align-items-center">
             <div className="col-12 text-center">
-              <img src="./images/144x144.png" />
-              <h1 children="Emmanuel Tabar" />
-              <a className="btn btn-dark mx-1" href="javscript:void(0)" onClick={this.props.click}>
-                <h5 className="mb-0" children="See my work" />
+              <a href="javscript:void(0)" onClick={this.props.click}>
+                <img src="./images/2024/144x144.png" />
               </a>
+              {/* <h1 children="Emmanuel Tabar" /> */}
+              {/* <a className="btn btn-dark mx-1" href="javscript:void(0)" onClick={this.props.click}>
+                <h5 className="mb-0" children="See my work" />
+              </a> */}
               {/* <a className="btn btn-dark mx-1" href="javscript:void(0)" onClick={this.props.showAbout}>
                 <h5 className="mb-0" children="About me" />
               </a> */}
